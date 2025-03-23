@@ -1,0 +1,26 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Node.js dependencies
+node_modules/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Compiled files (C, C++, etc.)
+*.out
+*.o
+*.so
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# Environment/config files
+.env
